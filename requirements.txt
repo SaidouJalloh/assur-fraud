@@ -12,6 +12,8 @@ pandas
 numpy<2.0.0
 scikit-learn==1.7.2
 xgboost==3.1.2
+lightgbm
 openpyxl
 plotly
 joblib
+streamlit-option-menu
